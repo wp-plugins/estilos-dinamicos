@@ -2,7 +2,7 @@
 /*
 Plugin Name: Estilos dinamicos
 Plugin URI: http://www.estudiodos.es/
-Description:Load a different css for each screen resolution
+Description:Load a different css for each screen resolution. Thanks for the original idea to <a href="http://www.tatuaggiweb.com/">Taguaggi web</a>.
 Author: Stephen De Winter
 Version: 0.1
 Author URI: http://www.estudiodos.es/
